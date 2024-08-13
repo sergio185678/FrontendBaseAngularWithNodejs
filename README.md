@@ -6,7 +6,7 @@ Usuario con cargo administrador:
 
 Este proyecto es un conjunto completo de herramientas esenciales para desarrollar aplicaciones en Angular. Encuentra la aplicación desplegada https://frontendbaseangularwithnodejs.netlify.app/
 
-![image](https://github.com/sergio185678/FrontendBaseAngularWithASPNETCORE/assets/67492035/b5dcdb05-d248-47b7-bbda-2619a76df705)
+![image](https://github.com/user-attachments/assets/76bd123b-6a98-4f38-ab17-007335d282f5)
 
 Link del repositorio del backend: https://github.com/sergio185678/MyProjectNODEJS
 
